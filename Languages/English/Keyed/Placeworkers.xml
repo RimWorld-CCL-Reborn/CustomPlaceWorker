@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+ <MustPlaceOnGravel>Must place on soil with at least 70% fertility.</MustPlaceOnGravel>
+ <MustPlaceOnRegularSoil>Must place on soil with at least 100% fertility.</MustPlaceOnRegularSoil>
+ <MustPlaceOnGoodSoil>Must place on soil with at least 120% fertility.</MustPlaceOnGoodSoil>
+ <MustPlaceOnFertileSoil>Must place on soil with at least 140% fertility.</MustPlaceOnFertileSoil>
+ <MustPlaceAgainstWall>Must be placed against wall.</MustPlaceAgainstWall>
+ <MustPlaceUnderRoof>Must be placed under roof.</MustPlaceUnderRoof>
+ <MustPlaceEntirelyUnderRoof>Must be placed entirely under roof.</MustPlaceEntirelyUnderRoof>
+ <MustPlaceEntirelyUnroofed>Must be placed entirely unroofed.</MustPlaceEntirelyUnroofed>
+ <MustPlaceUnderOverheadMountain>Can only be placed under thick overhead mountain.</MustPlaceUnderOverheadMountain>
+  
+</LanguageData>

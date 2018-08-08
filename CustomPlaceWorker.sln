@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27703.2042
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomPlaceWorkerSoilFertility", "CustomPlaceWorkerSoilFertility\CustomPlaceWorkerSoilFertility.csproj", "{75CB5A11-A39E-418E-8A2E-93DB7024FC1B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomPlaceWorker", "CustomPlaceWorker\CustomPlaceWorker.csproj", "{75CB5A11-A39E-418E-8A2E-93DB7024FC1B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

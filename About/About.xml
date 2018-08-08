@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<name>Example placeworker mod</name>
+	<author>Mehni</author>
+	<targetVersion>0.19.0</targetVersion>
+	<url></url>
+	<description>Mod showcasing different placeworkers.
+	  
+	  - Soil fertility (70/100/120/140)
+	  - Entirely unroofed, entirely roofed, under overhead mountain, under roof
+	  - Against walls
+	</description>
+</ModMetaData>
